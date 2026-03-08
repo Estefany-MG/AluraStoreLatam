@@ -18,6 +18,6 @@ A través del análisis de datos con Python, evaluamos el rendimiento de cada ti
 ```text
 alura-store-analysis/
 ├── notebooks/
-│   └── alura_store_analysis.ipynb # Notebook principal con el análisis
+│   └── alurastore.ipynb # Notebook principal con el análisis
 ├── images/                        # Gráficos generados exportados para este README
 └── README.md                      # Documentación del proyecto
